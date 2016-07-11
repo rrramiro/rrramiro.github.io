@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# My github repositories
+# rrramiro.github.io
 
 {% for repository in site.github.public_repositories %}
   * {{ repository.name }}
