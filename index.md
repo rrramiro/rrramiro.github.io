@@ -2,8 +2,11 @@
 layout: default
 ---
 
-# rrramiro.github.io
+# Ramiro's projects
 
-{% for repository in site.github.public_repositories %}
-  * {{ repository.name }}
-{% endfor %}
+
+  * [scala-gntp](https://rrramiro.github.io/scala-gntp/)
+
+
+
+[View on GitHub](https://github.com/rrramiro/)
