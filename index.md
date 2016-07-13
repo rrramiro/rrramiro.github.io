@@ -5,7 +5,8 @@ layout: default
 # Ramiro's projects
 
 
-  * [scala-gntp](https://rrramiro.github.io/scala-gntp/)
+  * [scala-gntp](https://github.com/rrramiro/scala-gntp)
+  * [sbt-linux-notifications](https://github.com/rrramiro/sbt-linux-notifications)
 
 
 
